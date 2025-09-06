@@ -30,5 +30,4 @@ The repository is organised into the following main folders:
 
 ## License
 
-This repository will be released under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)** license.  
-You are free to share and adapt the material, provided appropriate credit is given.  
+This repository is and will be released under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)** license. 
