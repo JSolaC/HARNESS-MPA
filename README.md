@@ -1,4 +1,4 @@
-# HARNESS-MPA — *Systematic Review of Coralligenous Reef Resilience to Marine Heatwaves*
+# HARNESS-MPA
 
 This repository provides the preliminary outputs of the project **HARNESS-MPA**, which applies a systematic review approach to assess the resilience of Mediterranean coralligenous reefs to marine heatwaves (MHWs) and other extreme climate events (ECEs).
 
