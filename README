@@ -1,26 +1,22 @@
-This repository was created to support the application to the MSCA 2025. 
+## 🔍 Preliminary Search Results
 
-Here, I will collate datasets regarding biodiversity and heterogeneity for each one of the proposed projects.
+This repository currently hosts the **preliminary stage** of the HARNESS-MPA systematic review.  
+At this point, we share the **search strategy** and the **first batch of results** retrieved from scientific databases.
 
-Each folder leads to the data and methods proposed to use in each Work Package (WP). 
+### 📑 Search Strategy
+The full set of Boolean search strings used in each database is documented here:  
+👉 [`search/search_terms.md`](search/search_terms.md)
 
-Below, a description of the files present in each folder:
+This ensures full **transparency** and allows replication of the search process.
 
+### 📊 Search Outputs
+- **Total records retrieved:** 329 
+- **After de-duplication:** 329 
 
-Biodiversity data:
--
+A detailed breakdown of the number of records in Web of Science can be found here:  
+👉 [`results_prelim/counts_by_database.csv`](results_prelim/counts_by_database.csv)
 
-MPA data:
-- 
-
-Satellite data:
-- 100 m resolution, open access, European Seas: https://help.marine.copernicus.eu/en/articles/5194057-introduction-to-ocean-colour-sentinel-2-high-resolution-products
-- 
-
-Bathymetry data:
--
-
-Field data:
-- 
-
-Create an R markdown explaining how will I analyse that data.
+### 🚀 Next Steps
+- Continue **title & abstract screening** in Covidence.  
+- Finalise **inclusion/exclusion criteria**.  
+- Upload a **preliminary PRISMA diagram** and list of included studies.  
