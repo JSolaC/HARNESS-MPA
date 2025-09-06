@@ -19,7 +19,7 @@ The repository is organised into the following main folders:
 - Searches completed in databases such as Web of Science, Scopus, and PubMed.  
 - **Total records retrieved:** 329  
 - **Records remaining after de-duplication:** 329  
-- Initial screening underway in Covidence.  
+- Initial screening will be done in Covidence once the project starts.  
 
 ## Next Steps
 
