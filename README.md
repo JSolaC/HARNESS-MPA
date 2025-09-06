@@ -16,7 +16,7 @@ The repository is organised into the following main folders:
 
 ## Current Stage
 
-- Searches completed in databases such as Web of Science, Scopus, and PubMed.  
+- Searches completed in  Web of Science.  
 - **Total records retrieved:** 329  
 - **Records remaining after de-duplication:** 329  
 - Initial screening will be done in Covidence once the project starts.  
