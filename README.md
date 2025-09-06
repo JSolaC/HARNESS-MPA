@@ -14,17 +14,11 @@ The repository is organised into the following main folders:
 - **`results_prelim/`**  
   Stores outputs from the preliminary search, including counts of retrieved records per database, summary notes, and placeholders for PRISMA diagrams.
 
-- **`docs/`**  
-  Holds draft documentation, including the early version of the systematic review protocol and methodological notes.
-
-- **`scripts/`**  
-  Reserved for future R/Python code to process Covidence exports, create PRISMA diagrams, and generate figures.
-
 ## Current Stage
 
 - Searches completed in databases such as Web of Science, Scopus, and PubMed.  
-- **Total records retrieved:** XXX  
-- **Records remaining after de-duplication:** YYY  
+- **Total records retrieved:** 329  
+- **Records remaining after de-duplication:** 329  
 - Initial screening underway in Covidence.  
 
 ## Next Steps
