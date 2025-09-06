@@ -1,6 +1,6 @@
 # HARNESS-MPA
 
-This repository provides the preliminary outputs of the project **HARNESS-MPA**, which applies a systematic review approach to assess the resilience of shallow marine ecosystems to marine heatwaves (MHWs) and other extreme climate events (ECEs).
+This repository provides the preliminary outputs of the project **HARNESS-MPA**, which applies a systematic review approach to assess the resilience of shallow marine ecosystems to environmental impacts and extreme climate events (ECEs).
 
 The project is currently at the preliminary search stage, and this repository documents the search strategy and initial results exported from Covidence. Future updates will include full screening outcomes, extraction tables, and reproducible workflows for generating PRISMA diagrams and summary figures.
 
